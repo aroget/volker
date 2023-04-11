@@ -1,0 +1,12 @@
+{
+  "en": {
+    "dir": "/en",
+    "slug": "en",
+    "name": "English"
+  },
+  "de": {
+    "dir": "/",
+    "slug": "de",
+    "name": "Deutsch"
+  }
+}

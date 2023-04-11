@@ -1,0 +1,22 @@
+{
+  "de": [
+    {
+      "label": "Über mich",
+      "url": "/about"
+    },
+    {
+      "label": "Methoden",
+      "collection": "method"
+    }
+  ],
+  "en": [
+    {
+      "label": "About",
+      "url": "/en/about"
+    },
+    {
+      "label": "Methods",
+      "collection": "method"
+    }
+  ]
+}
