@@ -3,7 +3,7 @@ layout: base.njk
 ---
 <nav class='main {% if navClass  %} {{navClass}} {% endif %}'>
   <div class='container'>
-    <h1><a href='{{ languages[lang].dir }}'>{{settings.title}} <br /> {{settings.description}} {{customClass}}</a></h1>
+    <h1><a href='{{ languages[lang].dir | url }}'>{{settings.title}} <br /> {{settings.description}} {{customClass}}</a></h1>
     <ul class='main__first'>
       {% for item in navigation[lang] %}
         <li>
@@ -11,11 +11,11 @@ layout: base.njk
           {{item.label}}
           <ul class="main__second">
             {% for collection in collections[item.collection] | filterByLanguage(lang) %}
-              <li><a href="{{collection.url}}">{{collection.data.title}}</a></li>
+              <li><a href="{{collection.url | url}}">{{collection.data.title}}</a></li>
             {% endfor %}
             </ul>
           {% else %}
-            <li><a href="{{item.url}}">{{item.label}} </a></li>
+            <li><a href="{{item.url | url}}">{{item.label}} </a></li>
           {% endif %}
         </li>
       {% endfor %}
