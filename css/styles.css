@@ -28,10 +28,13 @@ img {
 }
 
 .hero {
-  margin-top: -100px;
-  background-image: url('/assets/hero.jpg');
   width: 100%;
   height: 400px;
-  background-size: cover;
-  background-position: center center;
+  margin-top: -100px;
+}
+
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
