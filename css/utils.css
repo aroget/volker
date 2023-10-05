@@ -1,0 +1,8 @@
+.flex-container {
+  display: flex;
+}
+
+.two-cols {
+  display: flex;
+  justify-content: space-between;
+}
