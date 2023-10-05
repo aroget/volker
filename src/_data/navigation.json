@@ -5,8 +5,12 @@
       "url": "/about"
     },
     {
-      "label": "Methoden",
-      "collection": "method"
+      "label": "Methoden und Kompetenzen",
+      "url": "/methods"
+    },
+    {
+      "label": "Kosten und Ablauf",
+      "url": "/prices"
     }
   ],
   "en": [
@@ -15,8 +19,12 @@
       "url": "/en/about"
     },
     {
-      "label": "Methods",
-      "collection": "method"
+      "label": "Methods and Competencies",
+      "url": "/en/methods"
+    },
+    {
+      "label": "Costs and procedure",
+      "url": "/en/prices"
     }
   ]
 }
