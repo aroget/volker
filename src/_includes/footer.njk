@@ -1,10 +1,12 @@
 <footer>
   <div class="container">
     <div class="two-cols">
-      Kontakt/Contact Tel.: +49176 38922953
+      &#9742; +49176 38922953
       <div class="footer__links">
-        <a href="/impressum">Impressum</a>
-        <a href="/datenschutz">Datenschutzerklärung</a>
+        <a href="{{ 'impressum' | localizeUrl(page.lang) }}">Impressum</a>
+        <a href="{{ 'datenschutz' | localizeUrl(page.lang) }}"
+          >Datenschutzerklärung</a
+        >
       </div>
     </div>
   </div>
