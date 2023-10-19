@@ -5,6 +5,7 @@
 @import './grid.css';
 @import './typography.css';
 @import './utils.css';
+@import './footer.css';
 
 html {
   background: var(--color-brand-100);
