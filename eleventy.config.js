@@ -15,6 +15,13 @@ module.exports = function (eleventyConfig) {
     return pages.filter((page) => page.data.lang === language);
   });
 
+  eleventyConfig.addFilter('localizeUrl', function (url, language) {
+    const urlWithoutSlash = url.replace('/', '');
+    return language !== 'de'
+      ? `/${language}/${urlWithoutSlash}`
+      : `/${urlWithoutSlash}`;
+  });
+
   return {
     dir: {
       input: 'src',

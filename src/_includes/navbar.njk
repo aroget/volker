@@ -1,0 +1,25 @@
+<nav class="main {% if navClass  %} {{ navClass }} {% endif %}">
+  <div class="container">
+    <h1>
+      <a href="{{ '/' | localizeUrl(lang) }}"
+        >{{ settings.title }} <br />
+        {{ settings.description }} {{ customClass }}</a
+      >
+    </h1>
+    <ul class="main__first">
+      {% for item in navigation[lang] %}
+      <li>
+        <a href="{{ item.url | url }}">{{ item.label }}</a>
+      </li>
+      {% endfor %} {% for lang, data in languages %}
+      <li>
+        <a
+          class="lang {% if page.lang === lang %} active {% endif %}"
+          href="{{ page.fileSlug | localizeUrl(lang) }}"
+          >{% if lang === 'de' %} 🇩🇪 {%else%} 🇬🇧 {%endif%}
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
