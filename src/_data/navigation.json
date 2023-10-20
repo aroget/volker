@@ -16,15 +16,15 @@
   "en": [
     {
       "label": "About",
-      "url": "/en/about"
+      "url": "/about"
     },
     {
       "label": "Methods and Competencies",
-      "url": "/en/methods"
+      "url": "/methods"
     },
     {
       "label": "Costs and procedure",
-      "url": "/en/prices"
+      "url": "/prices"
     }
   ]
 }
