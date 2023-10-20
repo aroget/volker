@@ -2,20 +2,20 @@
   <div class="container">
     <h1>
       <a href="{{ '/' | localizeUrl(lang) }}"
-        >{{ settings.title }} <br />
-        {{ settings.description }} {{ customClass }}</a
+        >{{ site.title }} <br />
+        {{ site.description }} {{ customClass }}</a
       >
     </h1>
     <ul class="main__first">
       {% for item in navigation[lang] %}
       <li>
-        <a href="{{ item.url | url }}">{{ item.label }}</a>
+        <a href="{{ item.url | localizeUrl(lang) }}">{{ item.label }}</a>
       </li>
-      {% endfor %} {% for lang, data in languages %}
+      {% endfor %} {% for lang, data in i18n %}
       <li>
         <a
           class="lang {% if page.lang === lang %} active {% endif %}"
-          href="{{ page.fileSlug | localizeUrl(lang) }}"
+          href="{% if lang === 'de' %} / {% else %} /{{ lang }} {%endif%}"
           >{% if lang === 'de' %} 🇩🇪 {%else%} 🇬🇧 {%endif%}
         </a>
       </li>
