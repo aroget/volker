@@ -1,4 +1,5 @@
+Host: https://psychotherapie-straub.com/
 Sitemap: https://psychotherapie-straub.com/sitemap.xml
 
-User-agent: *
-Disallow:
+User-Agent: *
+Allow: / 
