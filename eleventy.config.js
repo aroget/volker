@@ -6,6 +6,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/css/');
   eleventyConfig.addPassthroughCopy('./src/css/');
 
+  eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
+
   eleventyConfig.addPlugin(EleventyI18nPlugin, {
     // any valid BCP 47-compatible language tag is supported
     defaultLanguage: 'de',
