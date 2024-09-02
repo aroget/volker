@@ -3,5 +3,8 @@
   "authorName": "Volker Straub",
   "title": "Volker Straub",
   "authorUrl": "https://psychotherapie-straub.com",
-  "description": "Psychologische Beratung und Begleitung | Psychological Counceling"
+  "description": {
+    "en": "Psychological counseling",
+    "de": "Heilpraktiker für Psychotherapie"
+  }
 }
