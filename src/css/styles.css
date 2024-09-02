@@ -1,11 +1,11 @@
-@import './normalize.css';
+@import "./normalize.css";
 
-@import './navbar.css';
-@import './variables.css';
-@import './grid.css';
-@import './typography.css';
-@import './utils.css';
-@import './footer.css';
+@import "./navbar.css";
+@import "./variables.css";
+@import "./grid.css";
+@import "./typography.css";
+@import "./utils.css";
+@import "./footer.css";
 
 html {
   background: var(--color-brand-100);
@@ -37,7 +37,7 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-image: url('/assets/hero.jpg');
+  background-image: url("/assets/hero.jpg");
 }
 
 .profile {
