@@ -22,6 +22,10 @@ body {
   flex-direction: column;
 }
 
+div.container {
+  --grid-container-width: 90vw
+}
+
 footer {
   margin-top: auto;
 }
