@@ -22,9 +22,6 @@ Ich habe die Einstellung, dass jede(r), die Lösung seines Problems bereits in s
 Die Grundsätze meines Arbeitens sind Diskretion, Authentizität, Empathie (einfühlendes Verstehen) und Wertschätzung, egal wo Sie gerade stehen. Essentiell für mich ist eine Begegnung auf Augenhöhe - von Mensch zu Mensch. 
 
 
-![methods analogy](/assets/images/iStock-2160547371.png)
-
-
 ## Der Körper, der Atem und die Achtsamkeit
 
 Seit einigen Jahren hat der eigene Atem vermehrt meine Aufmerksamkeit auf sich gezogen. Es liegt viel Nützliches darin, sich diesem Phänomen etwas genauer zu widmen…
