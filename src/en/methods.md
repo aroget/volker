@@ -22,7 +22,7 @@ I have the attitude that everyone who comes to me already knows the solution to 
 The foundational principles of my work are discretion, authenticity, empathy (empathetic understanding) and appreciation, no matter where you stand and are right now. I consider it essential to encounter clients on an  “eye level” – from human to human. 
   
   
-![yellow snake & sky picture](/assets/images/iStock2160547371.png)
+![yellow snake & sky picture](/assets/images/iStock2160547371.jpg)
   
   
 ## The body, the breath and Awareness
@@ -90,7 +90,8 @@ After a little practice, the result is most often more serenity, stability and c
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
   
   <br>
-Disclaimer:  
+  <br>
+Disclaimer:  <br>
 The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”. My work does not replace a doctor or a psychiatrist.  
 In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).  
 In Vienna this is the number 01 31330 around the clock.  
