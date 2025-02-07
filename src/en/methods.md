@@ -5,7 +5,7 @@ layout: markdown
 
 # Overview:
 
-As part of the seminars I attended and also during my training as a “Heilpraktiker für Psychotherapie”, I came into practical contact with some selected tools, including:
+As part of the seminars I attended and also during my training as a “Heilpraktiker für Psychotherapie”, I came into practical contact with some selected tools, including: 
 
 - Solution-oriented short-term therapy according to Steve de Shazer
 - Client-centered therapy according to Carl Rogers
@@ -93,7 +93,7 @@ The counceling I offer is no psychotherapy according to the “Psychotherapeuten
 My work does not replace a doctor or a psychiatrist. In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).
 In Vienna this is the number 01 31330 around the clock.
 
-Alternatively (all free of charge):
+Alternatively (all free of charge): 
 Telephone counseling: 0800 1110111 (Protestant) 0800 1110222 (Catholic)
 
 Telephone counseling for children and young people: 0800/1110333

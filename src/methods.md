@@ -10,7 +10,7 @@ Im Rahmen der von mir besuchten Seminare und auch in meiner Ausbildung zum Heilp
 - Lösungsorientierte Kurzzeittherapie nach Steve de Shazer
 - Klientenzentrierter Gesprächsführung nach Carl Rogers
 - Ressourcenorientierte Ansätzte
-- Achtsamkeits- und Atemtechniken
+- Achtsamkeits- und Atemtechniken 
 - Definition von Zielen
 - Gewaltfreie Kommunikation nach Rosenberg
 - Progressive Muskelentspannung nach Jacobson
