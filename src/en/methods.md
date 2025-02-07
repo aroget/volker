@@ -29,7 +29,7 @@ The foundational principles of my work are discretion, authenticity, empathy (em
   
 ## The body, the breath and Awareness
 
-For a couple of years my own breath increasingly draws my attention. There is much usefulness in looking more carefully at this phenomenon...
+For a couple of years now my own breath increasingly draws my attention. There is much usefulness in looking more carefully at this phenomenon...
 
 The breath has long been seen as a link between the material world, i.e. the human body and the mind / psyche (M. Stein, „C.G. Jungs Landkarte der Seele“, Patmos, 1998). This is reflected in several words from different languages:
 
