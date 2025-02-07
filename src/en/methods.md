@@ -22,7 +22,8 @@ I have the attitude that everyone who comes to me already knows the solution to 
 The foundational principles of my work are discretion, authenticity, empathy (empathetic understanding) and appreciation, no matter where you stand and are right now. I consider it essential to encounter clients on an  “eye level” – from human to human. 
   
   
-<img src="/assets/images/iStock2160547371.jpg" alt="yellow snake & sky picture" width="900">
+<img src="/assets/images/iStock2160547371.jpg" alt="yellow snake & sky picture">
+  <br>
   <br>
   <br>
   

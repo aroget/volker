@@ -25,6 +25,7 @@ Die Grundsätze meines Arbeitens sind Diskretion, Authentizität, Empathie (einf
 ![yellow snake & sky picture](/assets/images/iStock2160547371.jpg)
   <br>
   <br>
+  <br>
   
 ## Der Körper, der Atem und die Achtsamkeit
 
