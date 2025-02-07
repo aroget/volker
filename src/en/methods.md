@@ -20,11 +20,11 @@ There are a variety of approaches to support people psychologically. I don't wan
 I have the attitude that everyone who comes to me already knows the solution to their problem within themselves and takes this knowing in the session. My role is to encourage the emergence of what Rogers calls „actualizing tendency“. Among other approaches, I do this by carefully mirroring and reflecting on what you bring to the sessions.
 
 The foundational principles of my work are discretion, authenticity, empathy (empathetic understanding) and appreciation, no matter where you stand and are right now. I consider it essential to encounter clients on an  “eye level” – from human to human. 
-
-
-![methods analogy](/assets/images/iStock2160547371.png)
-
-
+  
+  
+![yellow snake & sky picture](/assets/images/iStock2160547371.png)
+  
+  
 ## The body, the breath and Awareness
 
 For a couple of years my own breath increasingly draws my attention. There is much usefulness in looking more carefully at this phenomenon...
@@ -88,18 +88,15 @@ It is in the nature of things that we have a tendency to seek fulfillment in the
 After a little practice, the result is most often more serenity, stability and clarity. Qualities that strengthen with regular practice and also show up outside of formal meditation. Irritability and nervousness and a calm state of mind are mutually exclusive. The latter is often the prerequisite for any successful psychological intervention/measure. 
 
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
+  
+  
+Disclaimer:  
+The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”. My work does not replace a doctor or a psychiatrist.  
+In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).  
+In Vienna this is the number 01 31330 around the clock.  
 
-______________________________________________________________
-
-Disclaimer:
-The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”.
-My work does not replace a doctor or a psychiatrist. In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).
-In Vienna this is the number 01 31330 around the clock.
-
-Alternatively (all free of charge): 
-Telephone counseling: 0800 1110111 (Protestant) 0800 1110222 (Catholic)
-
-Telephone counseling for children and young people: 0800/1110333
-
+Alternatively (all free of charge):  
+Telephone counseling: 0800 1110111 (Protestant) 0800 1110222 (Catholic)  
+Telephone counseling for children and young people: 0800/1110333  
 Info Telephone Depression: 0800 3344533
 
