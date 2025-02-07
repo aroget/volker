@@ -15,13 +15,15 @@ Im Rahmen der von mir besuchten Seminare und auch in meiner Ausbildung zum Heilp
 - Gewaltfreie Kommunikation nach Rosenberg
 - Progressive Muskelentspannung nach Jacobson
 
-Es gibt eine Vielzahl von Ansätzen um Menschen psychologisch zu unterstützen. Einen umfassenden Überblick möchte ich an dieser Stelle nicht geben. Ich verweise mit freundlicher Genehmigung auf diese [Quelle](https://www.therapie.de/psyche/info/therapie/einleitung/).
-
-Unter all den bestehenden Strömungen liegen mir die achtsamkeitsbasierten und die humanistischen Ansätze am meisten [(siehe hier)](https://www.therapie.de/psyche/info/therapie/gespraechspsychotherapie/). Sie bilden den Kern meiner Tätigkeit.
+Es gibt eine Vielzahl von Ansätzen um Menschen psychologisch zu unterstützen. Einen umfassenden Überblick möchte ich an dieser Stelle nicht geben. Ich verweise mit freundlicher Genehmigung auf diese [Quelle](https://www.therapie.de/psyche/info/therapie/einleitung/). Unter all den bestehenden Strömungen liegen mir die achtsamkeitsbasierten und die humanistischen Ansätze am meisten ([siehe hier](https://www.therapie.de/psyche/info/therapie/gespraechspsychotherapie/)). Sie bilden den Kern meiner Tätigkeit.
 
 Ich habe die Einstellung, dass jede(r), die Lösung seines Problems bereits in sich trägt und mit in die Beratung nimmt. Meine Rolle ist es die Geburt dieser „Selbstaktualisierungstendenz“, wie Rogers es nennt, zu fördern. Das mache ich unter Anderem durch aufmerksames Spiegeln dessen, was Sie mit in die Stunden bringen. 
 
-Die Grundsätze meines Arbeitens sind Systematik, Diskretion, Authentizität, Empathie (einfühlendes Verstehen) und Wertschätzung, egal wo Sie gerade stehen. Essentiell für mich ist eine Begegnung auf Augenhöhe - von Mensch zu Mensch. 
+Die Grundsätze meines Arbeitens sind Diskretion, Authentizität, Empathie (einfühlendes Verstehen) und Wertschätzung, egal wo Sie gerade stehen. Essentiell für mich ist eine Begegnung auf Augenhöhe - von Mensch zu Mensch. 
+
+
+![methods analogy](/assets/images/iStock-2160547371.png)
+
 
 ## Der Körper, der Atem und die Achtsamkeit
 
@@ -67,7 +69,7 @@ Das Atmen ist ein Körpervorgang, der generell bewusst oder unbewusst ablaufen k
 
 Ich praktiziere seit einigen Jahren die Vipassana Meditation (gelehrt nach S.N. Goenka). Der erste Schritt bei dieser Form der Achtsamkeitsmeditation ist die bewusste Beobachtung des eigenen Atems (Anapanasati: aus dem Pali Anapana=Ein- und Ausatmen und sati=Achtsamkeit, wörtl. „Atem-Achtsamkeit“). Dieser wird dabei nicht verändert, sondern natürlich belassen, so wie er ist. Ist er schnell, dann ist er schnell, ist er schwer, dann ist er schwer… Analog beziehen auch die beschriebenen Körperpsychotherapien die bewusste Beoachtung des natürlichen Atemprozesses mit ein. Im Vergleich zu oben genannten spirituellen Praktiken, ist die willentliche Modifikation des Atems aber NICHT Teil von Anapanasati.
 
-Es geht dabei im Wesentlichen um das Training zweier Fähigkeiten: zum einen um die „Fakultät der Achtsamkeit“ (faculty of awareness, lateinisch facultas „Fähigkeit, Vermögen“). Zum Anderen soll geübt werden innerpsychisch nicht auf das Wahrgenommene zu reagieren (Training von Gleichmut = equanimity ≠ Gleichgültigkeit).
+Es geht dabei im Wesentlichen um das Training zweier Fähigkeiten: zum einen um die „**Fakultät der Achtsamkeit**“ (faculty of awareness, lateinisch facultas „Fähigkeit, Vermögen“). Zum Anderen soll geübt werden innerpsychisch nicht auf das Wahrgenommene zu reagieren (Training von **Gleichmut** = equanimity ≠ Gleichgültigkeit).
 
 Die Körperposition ist ein aufrechtes Sitzen, so bequem wie möglich (auch z.B. auf einem Stuhl). Der Rücken soll aufrecht sein, der Rest des Körpers entspannt. Die Augen bleiben geschlossen. Sobald eine Ablenkung in Form eines Gefühls oder Gedankens auftritt - man z.B. nach fünf Minuten merkt, dass man „wo anders“ war - kehrt man wieder zum Atem zurück. Die Gedanken werden während des Übens nicht verfolgt, man lässt sie kommen und gehen, auftreten und abebben, ohne an ihnen zu verhaften.
 
@@ -88,6 +90,7 @@ Nach etwas Übung ist das Resultat oft mehr Gelassenheit, Stabilität und Klarhe
 Zum Abschluss möchte ich etwas klarstellen: die Praxis der Meditation ist etwas, womit ich Erfahrung habe. Sie hat mir geholfen. Das heißt nicht, dass dies für jeden und jede die geeignete Methode der Wahl ist. Es gibt eine unüberschaubare Anzahl von tools und Methoden, um mehr Klarheit und Minimierung von psychischem Leiden, zu verwirklichen. Die Entscheidung welcher Ansatz für Sie der richtige ist, bleibt jedem selbst überlassen.
 
 
+
 Hinweis:
 Die von mir angebotene psychologische Beratung stellt keine Psychotherapie nach Psychotherapeutengesetz dar. Meine Arbeit ersetzt keinen Arzt bzw. Psychiater.	
 Bei schwerwiegenden Krisen oder akuter Suizidalität und in Notfällen rufen Sie bitte rund um die Uhr den „Krisendienst Psychiatrie Oberbayern“ unter der Nummer 0800 655 3000 an oder beim Rettungsdienst (Nummer 112). 	
@@ -95,5 +98,7 @@ In Wien ist das rund um die Uhr die Nummer 01 31330.
 
 **Alternativ (alle gebührenfrei):**
 Telefonseelsorge: 0800 1110111 (evangelische) 0800 1110222 (katholische)
+
 Telefonseelsorge Kinder und Jugendliche: 0800/1110333
+
 Info Telefon Depression: 0800 3344533
