@@ -22,7 +22,7 @@ I have the attitude that everyone who comes to me already knows the solution to 
 The foundational principles of my work are discretion, authenticity, empathy (empathetic understanding) and appreciation, no matter where you stand and are right now. I consider it essential to encounter clients on an  “eye level” – from human to human. 
 
 
-![methods analogy](/assets/images/iStock-2160547371.png)
+![methods analogy](/assets/images/iStock2160547371.png)
 
 
 ## The body, the breath and Awareness
@@ -69,7 +69,7 @@ Breathing is a bodily process that can generally occur consciously or unconsciou
 
 I have been practicing Vipassana Meditation as taught by S.N. Goenka for some years now. The first step in this form of mindfulness meditation is the conscious observation of your own breath (Anapanasati; from the Pali anapana=breath in and out and sati=mindfulness, literally "mindfulness of breathing"). It is not changed, but left naturally, as it is. If it is fast, then it is fast, if it is heavy, then it is heavy... Similarly, the described body psychotherapies also include the conscious observation of the natural breathing process. Compared to the above spiritual practices, the modification of the breath at will is NOT part of anapanasati. 
 
-Essentially two abilities are trained: on the one hand, the **"faculty of awareness"** (latin facultas "ability"). On the other hand, it is practiced not to react mentally to what is perceived (exercise of equanimity = **equanimity** ≠ indifference). 
+Essentially two abilities are trained: on the one hand, the "**faculty of awareness**" (latin facultas "ability"). On the other hand, it is practiced not to react mentally to what is perceived (exercise of equanimity = **equanimity** ≠ indifference). 
 
 The body position is an upright sitting, as comfortably as possible (e.g. on a chair). The back should be straight and the rest of the body relaxed. The eyes remain closed. As soon as a distraction occurs in the form of a feeling or thought - e.g. after five minutes you realize that you were "somewhere else" - you return to the breath. Thoughts are not pursued during practice, they are allowed to come and go, arise and die away, without being attached to them.
 
@@ -89,18 +89,17 @@ After a little practice, the result is most often more serenity, stability and c
 
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
 
-
-
+______________________________________________________________
 
 Disclaimer:
-
 The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”.
 My work does not replace a doctor or a psychiatrist. In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).
 In Vienna this is the number 01 31330 around the clock.
 
 Alternatively (all free of charge): 
-
 Telephone counseling: 0800 1110111 (Protestant) 0800 1110222 (Catholic)
+
 Telephone counseling for children and young people: 0800/1110333
+
 Info Telephone Depression: 0800 3344533
 

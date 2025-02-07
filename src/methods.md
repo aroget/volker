@@ -22,7 +22,7 @@ Ich habe die Einstellung, dass jede(r), die Lösung seines Problems bereits in s
 Die Grundsätze meines Arbeitens sind Diskretion, Authentizität, Empathie (einfühlendes Verstehen) und Wertschätzung, egal wo Sie gerade stehen. Essentiell für mich ist eine Begegnung auf Augenhöhe - von Mensch zu Mensch. 
 
 
-![methods analogy](/assets/images/iStock-2160547371.png)
+![methods analogy](/assets/images/iStock2160547371.png)
 
 
 ## Der Körper, der Atem und die Achtsamkeit
@@ -89,17 +89,16 @@ Nach etwas Übung ist das Resultat oft mehr Gelassenheit, Stabilität und Klarhe
 
 Zum Abschluss möchte ich etwas klarstellen: die Praxis der Meditation ist etwas, womit ich Erfahrung habe. Sie hat mir geholfen. Das heißt nicht, dass dies für jeden und jede die geeignete Methode der Wahl ist. Es gibt eine unüberschaubare Anzahl von tools und Methoden, um mehr Klarheit und Minimierung von psychischem Leiden, zu verwirklichen. Die Entscheidung welcher Ansatz für Sie der richtige ist, bleibt jedem selbst überlassen.
 
-
-
+______________________________________________________________
 
 Hinweis:
-
 Die von mir angebotene psychologische Beratung stellt keine Psychotherapie nach Psychotherapeutengesetz dar. Meine Arbeit ersetzt keinen Arzt bzw. Psychiater.	
 Bei schwerwiegenden Krisen oder akuter Suizidalität und in Notfällen rufen Sie bitte rund um die Uhr den „Krisendienst Psychiatrie Oberbayern“ unter der Nummer 0800 655 3000 an oder beim Rettungsdienst (Nummer 112). 	
 In Wien ist das rund um die Uhr die Nummer 01 31330.	
 
 Alternativ (alle gebührenfrei):
-
 Telefonseelsorge: 0800 1110111 (evangelische) 0800 1110222 (katholische)
+
 Telefonseelsorge Kinder und Jugendliche: 0800/1110333
+
 Info Telefon Depression: 0800 3344533
