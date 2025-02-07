@@ -22,6 +22,9 @@ I have the attitude that everyone who comes to me already knows the solution to 
 The foundational principles of my work are discretion, authenticity, empathy (empathetic understanding) and appreciation, no matter where you stand and are right now. I consider it essential to encounter clients on an  “eye level” – from human to human. 
 
 
+![methods analogy](/assets/images/iStock-2160547371.png)
+
+
 ## The body, the breath and Awareness
 
 For a couple of years my own breath increasingly draws my attention. There is much usefulness in looking more carefully at this phenomenon...
@@ -88,15 +91,16 @@ To round off, I want to clarify: the practice of meditation is something I have 
 
 
 
+
 Disclaimer:
+
 The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”.
 My work does not replace a doctor or a psychiatrist. In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).
 In Vienna this is the number 01 31330 around the clock.
 
 Alternatively (all free of charge): 
+
 Telephone counseling: 0800 1110111 (Protestant) 0800 1110222 (Catholic)
-
 Telephone counseling for children and young people: 0800/1110333
-
 Info Telephone Depression: 0800 3344533
 
