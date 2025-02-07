@@ -89,7 +89,7 @@ After a little practice, the result is most often more serenity, stability and c
 
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
   
-  
+  <br>
 Disclaimer:  
 The counceling I offer is no psychotherapy according to the “Psychotherapeutengesetz”. My work does not replace a doctor or a psychiatrist.  
 In the event of serious crises or acute suicidality and in emergencies, please call the “Oberbayern Psychiatry Crisis Service” around the clock on 0800 655 3000 or the emergency services (No. 112).  

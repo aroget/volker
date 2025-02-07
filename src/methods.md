@@ -89,7 +89,7 @@ Nach etwas Übung ist das Resultat oft mehr Gelassenheit, Stabilität und Klarhe
 
 Zum Abschluss möchte ich etwas klarstellen: die Praxis der Meditation ist etwas, womit ich Erfahrung habe. Sie hat mir geholfen. Das heißt nicht, dass dies für jeden und jede die geeignete Methode der Wahl ist. Es gibt eine unüberschaubare Anzahl von tools und Methoden, um mehr Klarheit und Minimierung von psychischem Leiden, zu verwirklichen. Die Entscheidung welcher Ansatz für Sie der richtige ist, bleibt jedem selbst überlassen.
   
-  
+  <br>
 Hinweis:  
 Die von mir angebotene psychologische Beratung stellt keine Psychotherapie nach Psychotherapeutengesetz dar. Meine Arbeit ersetzt keinen Arzt bzw. Psychiater.  
 Bei schwerwiegenden Krisen oder akuter Suizidalität und in Notfällen rufen Sie bitte rund um die Uhr den „Krisendienst Psychiatrie Oberbayern“ unter der Nummer 0800 655 3000 an oder beim Rettungsdienst (Nummer 112).  
