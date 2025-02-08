@@ -90,6 +90,9 @@ It is in the nature of things that we have a tendency to seek fulfillment in the
 After a little practice, the result is most often more serenity, stability and clarity. Qualities that strengthen with regular practice and also show up outside of formal meditation. Irritability and nervousness and a calm state of mind are mutually exclusive. The latter is often the prerequisite for any successful psychological intervention/measure. 
 
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
+
+<p align="center"><b>"the devil's weed is only <i>a</i> path to the secrets of a knowledgeable one. There are other ways."</b></p>
+<p align="center">Carlos Castaneda</p>
   
   <br>
   <br>
