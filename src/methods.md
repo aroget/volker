@@ -98,7 +98,7 @@ Zum Abschluss möchte ich etwas klarstellen: die Praxis der Meditation ist etwas
   <br>
 Hinweis:  <br>
 Die von mir angebotene psychologische Beratung stellt keine Psychotherapie nach Psychotherapeutengesetz dar. Meine Arbeit ersetzt keinen Arzt bzw. Psychiater.  
-Bei schwerwiegenden Krisen oder akuter Suizidalität und in Notfällen rufen Sie bitte rund um die Uhr den „Krisendienst Psychiatrie Oberbayern“ unter der Nummer 0800 655 3000 an oder beim Rettungsdienst (Nummer 112).  
+Bei schwerwiegenden Krisen oder akuter Suizidalität und in Notfällen rufen Sie bitte rund um die Uhr den „Krisendienst Psychiatrie Oberbayern“ unter der Nummer 0800 655 3000 an oder beim Rettungsdienst (Nummer 112).  <br>
 In Wien ist das rund um die Uhr die Nummer 01 31330.  
   
 Alternativ (alle gebührenfrei):  
