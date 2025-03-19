@@ -91,8 +91,8 @@ Nach etwas Übung ist das Resultat oft mehr Gelassenheit, Stabilität und Klarhe
 
 Zum Abschluss möchte ich etwas klarstellen: die Praxis der Meditation ist etwas, womit ich Erfahrung habe. Sie hat mir geholfen. Das heißt nicht, dass dies für jeden und jede die geeignete Methode der Wahl ist. Es gibt eine unüberschaubare Anzahl von tools und Methoden, um mehr Klarheit und Minimierung von psychischem Leiden, zu verwirklichen. Die Entscheidung welcher Ansatz für Sie der richtige ist, bleibt jedem selbst überlassen.
 
-<p align="center"><b>"das Teufelskraut ist nur <i>ein</i> Weg zu den Geheimnissen eines Wissenden. Es gibt andere Wege."</b></p>
-<p align="center">Carlos Castaneda</p>
+<p align="center"><b>"In order to heal we need to touch with love that, what we previously touched with fear."</b></p>
+<p align="center">Stephen Levine</p>
   
   <br>
   <br>

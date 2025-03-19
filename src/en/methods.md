@@ -91,8 +91,8 @@ After a little practice, the result is most often more serenity, stability and c
 
 To round off, I want to clarify: the practice of meditation is something I have experience with. It helped me a lot. That is not to say that this is the appropriate method of choice for everyone. There is an uncalculable number of tools and methods to achieve more clarity and minimize mental suffering. It is up to you to decide which approach is the right one for you. 
 
-<p align="center"><b>"the devil's weed is only <i>a</i> path to the secrets of a knowledgeable one. There are other ways."</b></p>
-<p align="center">Carlos Castaneda</p>
+<p align="center"><b>"In order to heal we need to touch with love that, what we previously touched with fear."</b></p>
+<p align="center">Stephen Levine</p>
   
   <br>
   <br>
